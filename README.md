@@ -26,6 +26,7 @@
  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
  </div>
  
  
