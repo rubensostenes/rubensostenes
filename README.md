@@ -57,8 +57,8 @@
 ---
 
 ## 📫 Como me encontrar
-- Email: **seuemail@example.com**
-- LinkedIn: **https://linkedin.com/in/seu-perfil**  
+- Email: rubenmelo332@gmail.com
+- LinkedIn: www.linkedin.com/in/ruben-sostenes
 - Portfólio (caso tenha): **https://seusite.com**
 
 ---
